@@ -1,4 +1,5 @@
 _repo: Punch-or-the-London-Charivari-Volume-107-December-29th-1894_46826
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -15,6 +16,9 @@ contributor:
       gutenberg_agent_id: '5304'
       url: http://www.gutenberg.org/2009/agents/5304
       wikipedia: http://en.wikipedia.org/wiki/Francis_Burnand
+covers:
+- cover_type: archival
+  image_path: 46826-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +26,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46826#Punch-or-the-London-Charivari-Volume-107-December-29th-1894
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
